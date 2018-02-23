@@ -9,5 +9,5 @@ function whisper(string) {
 function logShout(string) {
   const spyOn = ('hello')
   return string.toUpperCase()
-  console.log()
+  console.log(spyOn)
 };
