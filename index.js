@@ -10,3 +10,4 @@ function logShout(string) {
   const spyOn = ('hello')
   console.log(hello)
 };
+spyOn
