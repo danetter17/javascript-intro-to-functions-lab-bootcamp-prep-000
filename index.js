@@ -7,7 +7,7 @@ function whisper(string) {
 };
 
 function logShout(string) {
-  const spyOn = ('hello')
+  const spyOn = ('string')
   console.log(hello)
 };
-spyOn
+spyOn (hello)
